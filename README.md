@@ -2,7 +2,7 @@
 
 To test, enter the follow command from project root:
 
-    node app
+    npm i && node app
 
 Once launched, navigate to `http://localhost:8080/api/wordCombinations` use a query parameter `q` for your input.
 
