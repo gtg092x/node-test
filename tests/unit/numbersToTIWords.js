@@ -53,7 +53,7 @@ describe('Numbers to TI Words', function(){
 					return word === 'CAT';
 				});
 
-				should(cat).not.be.exactly(null);
+				should(cat.length).not.be.exactly(0);
 
 				done();
 
