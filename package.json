@@ -19,6 +19,8 @@
   "dependencies": {
     "async": "^0.9.0",
     "lazy": "^1.0.11",
-    "restify": "^3.0.1"
+    "mocha": "^2.2.1",
+    "restify": "^3.0.1",
+    "should": "^5.2.0"
   }
 }
